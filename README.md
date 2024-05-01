@@ -1,4 +1,5 @@
 VERSIÓN DE MYSQL: 8.0.30
+
 VERSIÓN DE NODE: 20.12.2
 
 Proyecto de Web Scraping
