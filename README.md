@@ -1,3 +1,6 @@
+VERSIÓN DE MYSQL: 8.0.30
+VERSIÓN DE NODE: 20.12.2
+
 Proyecto de Web Scraping
 Este es un proyecto de web scraping desarrollado en Node.js para extraer información de sitios web y almacenarla en una base de datos MySQL.
 
